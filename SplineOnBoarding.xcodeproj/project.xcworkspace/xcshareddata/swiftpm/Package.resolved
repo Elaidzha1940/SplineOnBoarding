@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "spline-ios?tab=readme-ov-file",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/splinetool/spline-ios?tab=readme-ov-file",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1f6b93ec223c3e0bf8c4586b57c21bc845d516c9"
+      }
+    }
+  ],
+  "version" : 2
+}
